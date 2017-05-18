@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 // Write a program that finds the smallest of three numbers.
+
+import java.util.Scanner;
 
 public class TheSmallestOfThreeNumbers {
     public static void main(String[] args) {
