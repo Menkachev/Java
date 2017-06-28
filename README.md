@@ -41,8 +41,8 @@ This course sets the basics of working with databases, making it easier to use t
 <div style="float: left">
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="left"><strong>Databases Basics MySQL - May 2017</strong>: <br>22.05.2017 - 24.06.2017<br><br> Grade: 4.88 (out of 6.00)<br> Issue Date: //2017</th><th align="left">
-<p><a title="Databases Basics - MySQL" href="">Certificate / None</a></p>
+<tr><th align="left"><strong>Databases Basics MySQL - May 2017</strong>: <br>22.05.2017 - 24.06.2017<br><br> Grade: 4.88 (out of 6.00)</th><th align="left">
+<p><a title="Databases Basics - MySQL">Certificate / None</a></p>
 </th></tr>
 
 <tr>
@@ -100,8 +100,8 @@ This course sets the basics of working with databases, making it easier to use t
 <div style="float: left">
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="left"><strong>Databases Frameworks - Hibernate & Spring Data - June 2017</strong>: <br>26.06.2017 - 08.08.2017<br><br> Grade: 0.00 (out of 6.00)<br> Issue Date: //2017</th><th align="left">
-<p><a title="Programming Fundamentals" href="">Certificate / None</a></p>
+<tr><th align="left"><strong>Databases Frameworks - Hibernate & Spring Data - June 2017</strong>: <br>26.06.2017 - 13.08.2017<br><br> Grade: 0.00 (out of 6.00)</th><th align="left">
+<p><a title="Programming Fundamentals">Certificate / None</a></p>
 </th></tr>
 
 <tr>
