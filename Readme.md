@@ -1,4 +1,3 @@
-<<<<<<< HEAD:README.md
 <div id="user-content-readme">
     <h3><a id="user-content-----------" class="anchor" href="#----------" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a></h3>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
@@ -28,16 +27,26 @@
 
 <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content--databases-basics---may-2017" class="anchor" href="https://softuni.bg/trainings/1634/databases-basics-mysql-may-2017" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a id="user-content--databases-basics---may-2017" href="https://softuni.bg/trainings/1634/databases-basics-mysql-may-2017"></a><a href="https://softuni.bg/trainings/1634/databases-basics-mysql-may-2017"><p align="center"> Databases Basics - MySQL</p><p></p></a></h1><a href="https://softuni.bg/trainings/1634/databases-basics-mysql-may-2017">
 </a>
+
 <hr>
 <p><strong>Databases Basics</strong> course introduce you to one of the most widely used open-source database management <strong>(DBMS)</strong> systems used in the development of modern information systems - <strong>MySQL</strong>. The course focuses on relational modeling, data modeling with <strong>ER charts</strong> (tables and relational links) and SQL (data retrieval, selection, projection, join, aggregation, grouping, change, deletion, and insertion). Fundamental knowledge about <strong>ACID transactions</strong> and transaction processing and practical tips for adjusting productivity are provided.
-This course sets the basics of working with databases, making it easier to use them in real-world applications, and understanding concepts such as database transformation into object-oriented (ORM) modeling.</p>
+This course sets the basics of working with databases, making it easier to use them in real-world applications, and understanding concepts such as database transformation into object-oriented (ORM) modeling.
+</p>
+
 </article>
 
+
 </td>
+
 </tr>
+
 </tbody>
+
 </table>
-</div>
+<
+/div>
+
+
 
 <div style="float: left">
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
@@ -315,6 +324,4 @@ This course sets the basics of working with databases, making it easier to use t
 
 
 </hr>
-
->>>>>>> c8d7d41cee9a0e1504f1283935b40bc068eeec2a:Readme.md
-  </div>
+</div>
